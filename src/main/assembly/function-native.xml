@@ -22,9 +22,5 @@
       </includes>
       <fileMode>0755</fileMode>
     </fileSet>
-	  <fileSet>
-      <directory>${project.basedir}/support-lib</directory>
-      <outputDirectory></outputDirectory>
-    </fileSet>
   </fileSets>
 </assembly>
